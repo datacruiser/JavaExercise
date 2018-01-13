@@ -10,6 +10,7 @@ public class Main {
         n = in.nextInt();
         m = in.nextInt();
 
+
 //        System.out.println(n + " " + m);
 
         int amount = 0;
