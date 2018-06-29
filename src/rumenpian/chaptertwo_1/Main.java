@@ -22,5 +22,6 @@ public class Main {
             BJT = (UTC_3 - 8) * 100 + (UTC - UTC_3 * 100);
         }
         System.out.println(BJT);
+        System.out.println();
     }
 }
